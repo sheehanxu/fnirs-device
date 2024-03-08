@@ -21,3 +21,7 @@ lslslv.exe: This script creates a GUI application for HEG (Hemoencephalography) 
 
 lslsl.spec and lslsl.py: These files implement a serial monitor application using a GUI. It allows selecting data and marker ports, specifying an output CSV file, and starting/stopping the recording. The script reads data from the selected ports and writes it to the CSV file along with timestamps.
 
+## Notice
+https://github.com/sccn/labstreaminglayer
+The Lab Streaming Layer (LSL) is a system for unified collection and synchronization of time series data in research experiments. It handles networking, time-synchronization, real-time access, and optionally centralized collection, viewing, and recording of the data.
+
